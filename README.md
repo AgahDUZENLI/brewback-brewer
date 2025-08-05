@@ -1,5 +1,11 @@
 # ☕️ BrewBack - Brewer
 
+🔗 Live Demo
+
+🌐 brewback-brewer.vercel.app
+[![Vercel](https://vercelbadge.vercel.app/api/AgahDUZENLI/brewback-brewer)](https://brewback-brewer.vercel.app)
+
+
 **BrewBack - Brewer** is a minimal kiosk-style feedback app designed for cafés and coffee shops. It collects quick, emoji-based customer ratings in-store and sends them to a Firebase database for real-time storage and analysis.
 
 ## 🔧 Built With
