@@ -2,7 +2,6 @@
 
 🔗 Live Demo
 
-🌐 brewback-brewer.vercel.app
 [![Vercel](https://vercelbadge.vercel.app/api/AgahDUZENLI/brewback-brewer)](https://brewback-brewer.vercel.app)
 
 
