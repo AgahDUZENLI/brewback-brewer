@@ -7,7 +7,6 @@
 - React.js
 - Firebase (Firestore)
 - Reactstrap (UI components)
-- Tailwind CSS (for styling flexibility)
 
 ## 📸 Features
 
